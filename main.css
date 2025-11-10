@@ -29,9 +29,10 @@ section{
 .desc{
     background: #000;
     padding: 50px;
-    color: #a8a8a8;
+    color: purple;
     font-family: "Raleway", sans-serif;
     letter-spacing: 1px;
     line-height: 25px;
     text-align: justify;
 }
+

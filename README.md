@@ -5,6 +5,8 @@
 A simple Zooming Parallax web demo built with HTML, CSS, and JavaScript to create an immersive scrolling depth effect.
 Perfect for learning or showcasing smooth parallax animations in web design.
 
+** Exclusive for Laptop/Desktop **
+
 ## Table of Contents
 
 - [Description](#description)
@@ -24,19 +26,16 @@ This project demonstrates a **Zooming Parallax** scrolling effect where backgrou
 
 ## Features
 
-**Features:**
-
 - Smooth zooming and parallax scrolling effects for immersive visuals
 - Lightweight and built using pure HTML, CSS, and JavaScript
 - Easy to customize layer speeds and depth levels
 - Great for learning modern front-end animation techniques
 
-
 ## Technologies Used
 
 - HTML: Structure and content
 - CSS: Styling and layout
-- JavaScript – for interactive and dynamic scrolling effects
+- JavaScript: for interactive and dynamic scrolling effects
 
 
 ## Tools Used
